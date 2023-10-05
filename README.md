@@ -1,9 +1,115 @@
 
-#Changelog and Status Information | ArtikelSchreiber.com
-<html>
-<body>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Changelog and Status Information | ArtikelSchreiber.com</title>
+		<meta charset="UTF-8" />
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+		<meta name="viewport" content="width=device-width, height=device-height, user-scalable=1, initial-scale=1" />
+		<meta name="keywords" content="Changelog, Status information, Service, Backend, Frontend, Server, API" />
+		<meta name="description" content="Status Information and Changelog for Server, Webservices and Backend for ArtikelSchreiber.com" />
+		<meta name="mobile-web-app-capable" content="yes" />
+		<meta property="og:title" content="Changelog and Status Information | ArtikelSchreiber.com" />
+		<meta property="og:description" content="Status Information and Changelog for Server, Webservices and Backend for ArtikelSchreiber.com" />
+		<meta property="og:url" content="https://www.artikelschreiber.com/en/" />
+		<meta property="og:image" content="https://www.artikelschreiber.com/images/logo.png" />
+		<meta property="og:site_name" content="ArtikelSchreiber.com" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:type" content="Website" />
+		<meta property="og:image:type" content="image/png" />
+		<meta property="og:image:width" content="531" />
+		<meta property="og:image:height" content="628" />
+		<meta property="og:image:alt" content="Changelog and Status Information | ArtikelSchreiber.com" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="artikelschreiber.com"  />
+		<meta name="twitter:title" content="Changelog and Status Information | ArtikelSchreiber.com" />
+		<meta name="twitter:description" content="Status Information and Changelog for Server, Webservices and Backend for ArtikelSchreiber.com" />
+		<meta name="twitter:creator" content="artikelschreiber.com" />
+		<meta name="twitter:image:src" content="https://www.artikelschreiber.com/images/logo.png" />
+		<meta name="twitter:domain" content="www.artikelschreiber.com" />
+		<meta name="twitter:url" content="https://www.artikelschreiber.com/" />
+		<meta name="twitter:image" content="https://www.artikelschreiber.com/images/logo.png" />
+		<link rel="icon" type="image/png" sizes="120x120" href="https://www.artikelschreiber.com/images/apple-icon-120x120.png" />
+		<link rel="canonical" href="https://www.artikelschreiber.com/status/" />
+		<link rel="alternate" href="https://www.artikelschreiber.com/status/" hreflang="x-default" />
+	
+	</head>
 
+	<body itemscope itemtype="https://schema.org/WebPage" class="hmedia" style="text-align: left; overflow-wrap: break-word; word-wrap: normal; word-break: break-word;" translate="yes" lang="en">
+		<a name="IamOnTop"></a>
+		<span id="body"></span>
+		
+			<header>
+				<nav class="nav" tabindex="-1" role="navigation" onclick="this.focus()" aria-label="Navigation">
+					<div class="container">
+						<a hreflang="en" href="https://www.artikelschreiber.com/status/" title="Automatically write english articles"><img src="https://www.artikelschreiber.com/images/flags/en.png" width="32" height="32" alt="English Flag" />Changelog</a>
+						<a href="https://www.artikelschreiber.com/en/" target="_self" hreflang="en" title="SEO Tool: Write an article for digital marketing | ArtikelSchreiber.com"><img src="https://www.artikelschreiber.com/images/flags/en.png" width="32" height="32" alt="English Flag" title="SEO Tool: Write an article for digital marketing | ArtikelSchreiber.com" />Text Generator</a>
+						<a hreflang="en" href="https://www.unaique.net/en/" title="AI Text Generator for Content Marketing | UNAIQUE.NET"><img src="https://www.artikelschreiber.com/images/flags/en.png" width="32" height="32" alt="AI Text Generator" />AI Text Generator</a>
+						<a href='https://www.unaique.com/' title='AI WRITER | UNAIQUE.COM' target='_self' hreflang='en'><img src="https://www.artikelschreiber.com/images/flags/en.png" width="32" height="32" alt="AI WRITER | UNAIQUE.COM" />AI WRITER</a>
+					</div>
+				</nav>
+			</header>
+		
+		<div class="container">
+		<br />						
+		<fieldset>
+			<legend><b>Changelog for Webservices, Backends and Servers for ArtikelSchreiber.com and unaique.net</b></legend>
+			<br />
+			<h1 style="font-size:18px;font-weight: bold;" role="heading" aria-level="1"><b>Changelog: Development Status Update for Webservices, Backends and Servers for ArtikelSchreiber.com and unaique.net</b></h1>
+			<br />
+			<blockquote cite="https://www.artikelschreiber.com/" >
+				<div class="row">
+					<div class="col c1">
+						<img src="https://www.artikelschreiber.com/images/logo.png" height="75" width="75" alt="ArtikelSchreiber.com" />
+					</div>
+					<div class="col c5">
+						<strong><h2 style="font-size:18px; font-weight: bold;">"ArtikelSchreiber.com will forever be free of costs!"</h2></strong>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CEO & Founder
+					</div>
+					<div class="col c1">
+						<img src="https://www.artikelschreiber.com/images/logo.png" height="75" width="75" alt="ArtikelSchreiber.com" />
+					</div>
+				</div>
+			</blockquote>
+			<br />
+			<b>Please consider to link to us:</b> <textarea class="linkme" id="myInput" name="myInput"><a href="https://www.artikelschreiber.com/" hreflang="de" title="SEO Optimizer: Ghost Writer zum Hausarbeiten schreiben mit Ghostwriter Service und dem kostenlosen SEO Tool ➡️ Jetzt gratis nutzen">SEO Optimizer: Ghost Writer - Hausarbeiten schreiben mit KI</a></textarea>
 
+			<div class="tooltip">
+			<button onclick="myFunction(); jsLinksFunction('linkshare_status_en');" onmouseout="outFunc()" title="Click here to copy the text to the clipboard!">
+			  <span class="tooltiptext" id="myTooltip">Copied to clipboard!</span>
+			 Copy Text
+			  </button>
+			</div>
+						
+			<br />
+		
+			<fieldset lang="en">
+				<p>
+				<b><u id="SocialShareButtons">Share your Article:</u></b> &nbsp;&nbsp;&nbsp;
+				
+				<p>
+					<ul role="list">
+						<li role="listitem" id="shareFacebook"></li>
+						<li role="listitem" id="shareTwitter"></li>
+						<li role="listitem" id="shareWhatsApp"></li>
+						<li role="listitem" id="shareTelegram"></li>
+						<li role="listitem" id="shareLinkedIn"></li>
+						<li role="listitem" id="shareEmail"></li>
+						<li role="listitem" id="sharevKontakte"></li>
+						<li role="listitem" id="shareTumblr"></li>
+						<li role="listitem" id="shareXing"></li>
+						<li role="listitem" id="shareLineit"></li>
+						<li role="listitem" id="shareSkype"></li>
+						<li role="listitem" id="shareSnapChat"></li>
+						<li role="listitem" id="shareReddit"></li>
+						<li role="listitem" id="shareFlipboard"></li>
+					</ul>
+				</p>
+			</p>
+			</fieldset>
+
+			<br />
+				
 			<b>Date: 2023 October</b><br />
 			Services affected: Backend, Frontend<br />
 			<ul>
@@ -1066,6 +1172,5 @@
 			</footer>
 		</section>
 		</div>
-
 </body>
 </html>
